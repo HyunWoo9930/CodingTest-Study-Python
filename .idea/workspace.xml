@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fedb26c0-1439-49b0-878d-8c12c2c54aa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-A/brute force/S3 - two stickers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/DP/2748(B1) - 피보나치 수 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/sort/5635(S5) - 생일.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/sort/B1 - 7 dwarf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/sort/S5 - sort by age.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/sort/S5 - 단어 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/sort/S5 - 좌표 정렬하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/25305(B2) - 커트라인.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/2578(S4) - 빙고.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/2947(B1) - 나무조각.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/7658(S5) - 덩치.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2zX4CuBfXqkFZBGr7jG6IKCTVpR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.25305(B2) - 커트라인.executor": "Run",
+    "Python.2578(S4) - 빙고.executor": "Run",
+    "Python.2748(B1) - 피보나치 수 2.executor": "Run",
+    "Python.2947(B1) - 나무조각.executor": "Run",
+    "Python.5635(S5) - 생일.executor": "Run",
+    "Python.7658(S5) - 덩치.executor": "Run",
+    "Python.B1 - 7 dwarf.executor": "Run",
+    "Python.S3 - two stickers.executor": "Run",
+    "Python.S5 - sort by age.executor": "Run",
+    "Python.S5 - 단어 정렬.executor": "Run",
+    "Python.S5 - 좌표 정렬하기.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fedb26c0-1439-49b0-878d-8c12c2c54aa0" name="Changes" comment="" />
+      <created>1751863961270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751863961270</updated>
+      <workItem from="1751863964848" duration="7025000" />
+      <workItem from="1751991443076" duration="11686000" />
+      <workItem from="1752560781085" duration="958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodingTest$25305_B2____.coverage" NAME="25305(B2) - 커트라인 Coverage Results" MODIFIED="1752226060416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$7658_S5____.coverage" NAME="7658(S5) - 덩치 Coverage Results" MODIFIED="1752386733449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$2578_S4____.coverage" NAME="2578(S4) - 빙고 Coverage Results" MODIFIED="1752477713273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$2748_B1______2.coverage" NAME="2748(B1) - 피보나치 수 2 Coverage Results" MODIFIED="1752561070669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$S3___two_stickers.coverage" NAME="S3 - two stickers Coverage Results" MODIFIED="1751864093300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-A/brute force" />
+    <SUITE FILE_PATH="coverage/CodingTest$B1___7_dwarf.coverage" NAME="B1 - 7 dwarf Coverage Results" MODIFIED="1751866690247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$5635_S5____.coverage" NAME="5635(S5) - 생일 Coverage Results" MODIFIED="1752127354417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$2947_B1____.coverage" NAME="2947(B1) - 나무조각 Coverage Results" MODIFIED="1752333716704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$S5____.coverage" NAME="S5 - 단어 정렬 Coverage Results" MODIFIED="1751989513415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$S5___sort_by_age.coverage" NAME="S5 - sort by age Coverage Results" MODIFIED="1751967466662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+  </component>
+</project>
