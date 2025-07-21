@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fedb26c0-1439-49b0-878d-8c12c2c54aa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/introduction-A/graph/10451(S3) - 순열 사이클.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction-A/graph/17204(S3) - 죽음의게임.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     "Python.1010(S5) - 다리놓기.executor": "Run",
     "Python.10451(S3) - 순열 사이클.executor": "Run",
     "Python.1463(S3) - 1로만들기.executor": "Run",
+    "Python.17204(S3) - 죽음의게임.executor": "Run",
     "Python.25305(B2) - 커트라인.executor": "Run",
     "Python.2578(S4) - 빙고.executor": "Run",
     "Python.2748(B1) - 피보나치 수 2.executor": "Run",
@@ -82,7 +83,7 @@
       <updated>1751863961270</updated>
       <workItem from="1751863964848" duration="7025000" />
       <workItem from="1751991443076" duration="11686000" />
-      <workItem from="1752560781085" duration="16019000" />
+      <workItem from="1752560781085" duration="18038000" />
     </task>
     <servers />
   </component>
@@ -95,6 +96,7 @@
     <SUITE FILE_PATH="coverage/CodingTest$S3___two_stickers.coverage" NAME="S3 - two stickers Coverage Results" MODIFIED="1751864093300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-A/brute force" />
     <SUITE FILE_PATH="coverage/CodingTest$10451_S3_____.coverage" NAME="10451(S3) - 순열 사이클 Coverage Results" MODIFIED="1752861770891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
     <SUITE FILE_PATH="coverage/CodingTest$2775_B1_____.coverage" NAME="2775(B1) - 부녀회장이 될테야 Coverage Results" MODIFIED="1752646953232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$17204_S3____.coverage" NAME="17204(S3) - 죽음의게임 Coverage Results" MODIFIED="1753072307859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
     <SUITE FILE_PATH="coverage/CodingTest$5635_S5____.coverage" NAME="5635(S5) - 생일 Coverage Results" MODIFIED="1752127354417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
     <SUITE FILE_PATH="coverage/CodingTest$1010_S5____.coverage" NAME="1010(S5) - 다리놓기 Coverage Results" MODIFIED="1752735622942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
     <SUITE FILE_PATH="coverage/CodingTest$S5___sort_by_age.coverage" NAME="S5 - sort by age Coverage Results" MODIFIED="1751967466662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
