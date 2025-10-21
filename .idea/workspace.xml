@@ -5,11 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fedb26c0-1439-49b0-878d-8c12c2c54aa0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_04_merge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_05_merge_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_06_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/03_07_get_receiver_top_orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/Silver/S3-2606.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2020 KAKAO BLIND RECRUITMENT/괄호 변환.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2020 KAKAO BLIND RECRUITMENT/문자열 압축.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/2024 KAKAO WINTER INTERNSHIP/가장 많이 받은 선물.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/Analytical_Mechanics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/Thermal Physics Introduction.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/3rd_week/ㅔ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_01_max_heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_02_max_heap_remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_03_dfs_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_04_dfs_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_05_bfs_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_06_fibo_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_07_fibo_dynamic_programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_08_get_minimum_count_of_overseas_supply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/4th_week/04_09_get_count_of_departments_cleaned_by_robot_vacuum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/5th_week/catch_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dingcorithm/5th_week/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/25305(B2) - 커트라인.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/2578(S4) - 빙고.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/2947(B1) - 나무조각.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction-A/구현,시뮬레이션/7658(S5) - 덩치.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Python Script" />
       </list>
     </option>
@@ -66,6 +85,14 @@
     "Python.03_05_merge_sort.executor": "Run",
     "Python.03_06_stack.executor": "Run",
     "Python.03_07_get_receiver_top_orders.executor": "Run",
+    "Python.04_01_max_heap.executor": "Run",
+    "Python.04_02_max_heap_remove.executor": "Run",
+    "Python.04_03_dfs_recursion.executor": "Run",
+    "Python.04_05_bfs_queue.executor": "Run",
+    "Python.04_06_fibo_recursion.executor": "Run",
+    "Python.04_07_fibo_dynamic_programming.executor": "Run",
+    "Python.04_08_get_minimum_count_of_overseas_supply.executor": "Run",
+    "Python.04_09_get_count_of_departments_cleaned_by_robot_vacuum.executor": "Run",
     "Python.1010(S5) - 다리놓기.executor": "Run",
     "Python.10451(S3) - 순열 사이클.executor": "Run",
     "Python.10870(피보나치수5).executor": "Run",
@@ -85,17 +112,31 @@
     "Python.7658(S5) - 덩치.executor": "Run",
     "Python.B1 - 7 dwarf.executor": "Run",
     "Python.S3 - two stickers.executor": "Run",
+    "Python.S3-2606.executor": "Run",
     "Python.S5 - sort by age.executor": "Run",
     "Python.S5 - 단어 정렬.executor": "Run",
     "Python.S5 - 좌표 정렬하기.executor": "Run",
+    "Python.catch_me.executor": "Run",
+    "Python.dfs_stack.executor": "Run",
     "Python.factorial.executor": "Run",
     "Python.is_exist_target_number_binary.executor": "Run",
     "Python.is_existing_target_number_binary.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.ㅔ.executor": "Run",
+    "Python.가장 많이 받은 선물.executor": "Run",
+    "Python.같은숫자는 싫어.executor": "Run",
+    "Python.과일장수.executor": "Run",
+    "Python.괄호 변환.executor": "Run",
+    "Python.문자열 압축.executor": "Run",
+    "Python.숫자 짝꿍.executor": "Run",
+    "Python.영어 끝말잇기.executor": "Run",
+    "Python.올바른 괄호.executor": "Run",
+    "Python.유사 칸토어 비트열.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hyunwoo/Desktop/CodingTest/dingcorithm/3rd_week",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,11 +146,49 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="S3-2606" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/Silver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/Silver/S3-2606.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.S3-2606" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.74" />
-        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
   </component>
@@ -129,7 +208,11 @@
       <workItem from="1753685570266" duration="21100000" />
       <workItem from="1754903413863" duration="11331000" />
       <workItem from="1757308871055" duration="865000" />
-      <workItem from="1758523252778" duration="8287000" />
+      <workItem from="1758523252778" duration="11572000" />
+      <workItem from="1759066837427" duration="808000" />
+      <workItem from="1759566106388" duration="11703000" />
+      <workItem from="1759831368793" duration="25164000" />
+      <workItem from="1761035180654" duration="1739000" />
     </task>
     <servers />
   </component>
@@ -138,56 +221,71 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingTest$25305_B2____.coverage" NAME="25305(B2) - 커트라인 Coverage Results" MODIFIED="1752226060416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_01_bubble_sort.coverage" NAME="03_01_bubble_sort Coverage Results" MODIFIED="1758524000615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$S3___two_stickers.coverage" NAME="S3 - two stickers Coverage Results" MODIFIED="1751864093300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-A/brute force" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_03_get_node_linked_list.coverage" NAME="02_03_get_node_linked_list Coverage Results" MODIFIED="1754030754763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_03_insertion_sort.coverage" NAME="03_03_insertion_sort Coverage Results" MODIFIED="1758525925513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$2204_B1______.coverage" NAME="2204(B1) - 도비의 난독증 테스트 Coverage Results" MODIFIED="1753236327140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/random" />
-    <SUITE FILE_PATH="coverage/CodingTest$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1754904448713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$test.coverage" NAME="test Coverage Results" MODIFIED="1757308897468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_07_get_receiver_top_orders.coverage" NAME="03_07_get_receiver_top_orders Coverage Results" MODIFIED="1758698133898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_14_is_available_to_order.coverage" NAME="02_14_is_available_to_order Coverage Results" MODIFIED="1754905829460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$is_exist_target_number_binary.coverage" NAME="is_exist_target_number_binary Coverage Results" MODIFIED="1754904169071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$is_existing_target_number_binary.coverage" NAME="is_existing_target_number_binary Coverage Results" MODIFIED="1754904099779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_04_merge.coverage" NAME="03_04_merge Coverage Results" MODIFIED="1758696472798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$2947_B1____.coverage" NAME="2947(B1) - 나무조각 Coverage Results" MODIFIED="1752333716704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_06_stack.coverage" NAME="03_06_stack Coverage Results" MODIFIED="1758697103975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_02_append_linked_list.coverage" NAME="02_02_append_linked_list Coverage Results" MODIFIED="1753939663686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$1463_S3____1.coverage" NAME="1463(S3) - 1로만들기 Coverage Results" MODIFIED="1752819970104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_01_find_max_num.coverage" NAME="01_01_find_max_num Coverage Results" MODIFIED="1753685969111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$10451_S3_____.coverage" NAME="10451(S3) - 순열 사이클 Coverage Results" MODIFIED="1752861770891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
-    <SUITE FILE_PATH="coverage/CodingTest$17204_S3____.coverage" NAME="17204(S3) - 죽음의게임 Coverage Results" MODIFIED="1753072395731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_05_find_not_repeating_first_character.coverage" NAME="01_05_find_not_repeating_first_character Coverage Results" MODIFIED="1753777394746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_02_find_max_occurred_alphabet.coverage" NAME="01_02_find_max_occurred_alphabet Coverage Results" MODIFIED="1753774780712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$5635_S5____.coverage" NAME="5635(S5) - 생일 Coverage Results" MODIFIED="1752127354417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
-    <SUITE FILE_PATH="coverage/CodingTest$S5___sort_by_age.coverage" NAME="S5 - sort by age Coverage Results" MODIFIED="1751967466662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_07_josephus_problem.coverage" NAME="02_07_josephus_problem Coverage Results" MODIFIED="1754035793061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$2644_S1____.coverage" NAME="2644(S1) - 촌수계산 Coverage Results" MODIFIED="1753152496725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
-    <SUITE FILE_PATH="coverage/CodingTest$2748_B1______2.coverage" NAME="2748(B1) - 피보나치 수 2 Coverage Results" MODIFIED="1752561070669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_08_summarize_string.coverage" NAME="01_08_summarize_string Coverage Results" MODIFIED="1753868935918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_06_.coverage" NAME="01_06_소수구하기 Coverage Results" MODIFIED="1753861540589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$03_05_merge_sort.coverage" NAME="03_05_merge_sort Coverage Results" MODIFIED="1758696709469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_11_factorial.coverage" NAME="02_11_factorial Coverage Results" MODIFIED="1754904553238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
     <SUITE FILE_PATH="coverage/CodingTest$2578_S4____.coverage" NAME="2578(S4) - 빙고 Coverage Results" MODIFIED="1752477713273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$_.coverage" NAME="괄호 변환 Coverage Results" MODIFIED="1759933222009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmers/2020 KAKAO BLIND RECRUITMENT" />
+    <SUITE FILE_PATH="coverage/CodingTest$1010_S5____.coverage" NAME="1010(S5) - 다리놓기 Coverage Results" MODIFIED="1752735622942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_06_get_linked_list_sum.coverage" NAME="02_06_get_linked_list_sum Coverage Results" MODIFIED="1754031979135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$1463_S3____1.coverage" NAME="1463(S3) - 1로만들기 Coverage Results" MODIFIED="1752819970104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_06_.coverage" NAME="01_06_소수구하기 Coverage Results" MODIFIED="1753861540589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$S3_2606.coverage" NAME="S3-2606 Coverage Results" MODIFIED="1761036905380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/Silver" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_02_max_heap_remove.coverage" NAME="04_02_max_heap_remove Coverage Results" MODIFIED="1759568807135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_11_factorial.coverage" NAME="02_11_factorial Coverage Results" MODIFIED="1754904553238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$17204_S3____.coverage" NAME="17204(S3) - 죽음의게임 Coverage Results" MODIFIED="1753072395731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
+    <SUITE FILE_PATH="coverage/CodingTest$25501___.coverage" NAME="25501(재귀의 귀재) Coverage Results" MODIFIED="1754994286796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_08_get_minimum_count_of_overseas_supply.coverage" NAME="04_08_get_minimum_count_of_overseas_supply Coverage Results" MODIFIED="1759753476002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$10870_5_.coverage" NAME="10870(피보나치수5) Coverage Results" MODIFIED="1754992686545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_02_append_linked_list.coverage" NAME="02_02_append_linked_list Coverage Results" MODIFIED="1753939663686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$27433_2_.coverage" NAME="27433(팩토리얼2) Coverage Results" MODIFIED="1754992531282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
+    <SUITE FILE_PATH="coverage/CodingTest$dfs_stack.coverage" NAME="dfs_stack Coverage Results" MODIFIED="1759749979497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$5635_S5____.coverage" NAME="5635(S5) - 생일 Coverage Results" MODIFIED="1752127354417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$S5____.coverage" NAME="S5 - 단어 정렬 Coverage Results" MODIFIED="1751989513415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_01_bubble_sort.coverage" NAME="03_01_bubble_sort Coverage Results" MODIFIED="1758524000615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_05_bfs_queue.coverage" NAME="04_05_bfs_queue Coverage Results" MODIFIED="1759750543098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_04_find_max_plus_or_multiply.coverage" NAME="01_04_find_max_plus_or_multiply Coverage Results" MODIFIED="1753776216495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$test.coverage" NAME="test Coverage Results" MODIFIED="1760156547123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/5th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_07_get_receiver_top_orders.coverage" NAME="03_07_get_receiver_top_orders Coverage Results" MODIFIED="1758698307412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$2204_B1______.coverage" NAME="2204(B1) - 도비의 난독증 테스트 Coverage Results" MODIFIED="1753236327140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/random" />
     <SUITE FILE_PATH="coverage/CodingTest$03_02_selection_sort.coverage" NAME="03_02_selection_sort Coverage Results" MODIFIED="1758524443560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
     <SUITE FILE_PATH="coverage/CodingTest$01_07_find_count_to_turn_out_to_all_zero_or_all_one.coverage" NAME="01_07_find_count_to_turn_out_to_all_zero_or_all_one Coverage Results" MODIFIED="1753868588535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_05_delete_node_linked_list.coverage" NAME="02_05_delete_node_linked_list Coverage Results" MODIFIED="1754031471381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$1010_S5____.coverage" NAME="1010(S5) - 다리놓기 Coverage Results" MODIFIED="1752735622942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_15_get_count_of_ways_to_target_by_doing_plus_or_minus.coverage" NAME="02_15_get_count_of_ways_to_target_by_doing_plus_or_minus Coverage Results" MODIFIED="1754991631506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$7658_S5____.coverage" NAME="7658(S5) - 덩치 Coverage Results" MODIFIED="1752386733449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
-    <SUITE FILE_PATH="coverage/CodingTest$11724_S2______.coverage" NAME="11724(S2) - 연결 요소의 개수 Coverage Results" MODIFIED="1753081515512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_01_find_max_num.coverage" NAME="01_01_find_max_num Coverage Results" MODIFIED="1753685969111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$2644_S1____.coverage" NAME="2644(S1) - 촌수계산 Coverage Results" MODIFIED="1753152496725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_06_stack.coverage" NAME="03_06_stack Coverage Results" MODIFIED="1758697103975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
     <SUITE FILE_PATH="coverage/CodingTest$02_12_is_palindrome.coverage" NAME="02_12_is_palindrome Coverage Results" MODIFIED="1754904787110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$B1___7_dwarf.coverage" NAME="B1 - 7 dwarf Coverage Results" MODIFIED="1751866690247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
-    <SUITE FILE_PATH="coverage/CodingTest$S5____.coverage" NAME="S5 - 단어 정렬 Coverage Results" MODIFIED="1751989513415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_01_class.coverage" NAME="02_01_class Coverage Results" MODIFIED="1753938615514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$2775_B1_____.coverage" NAME="2775(B1) - 부녀회장이 될테야 Coverage Results" MODIFIED="1752646953232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
-    <SUITE FILE_PATH="coverage/CodingTest$25501___.coverage" NAME="25501(재귀의 귀재) Coverage Results" MODIFIED="1754994286796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
-    <SUITE FILE_PATH="coverage/CodingTest$27433_2_.coverage" NAME="27433(팩토리얼2) Coverage Results" MODIFIED="1754992531282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_04_add_node_linked_list.coverage" NAME="02_04_add_node_linked_list Coverage Results" MODIFIED="1754031235749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$10870_5_.coverage" NAME="10870(피보나치수5) Coverage Results" MODIFIED="1754992686545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaekJoon/recursion" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_04_find_max_plus_or_multiply.coverage" NAME="01_04_find_max_plus_or_multiply Coverage Results" MODIFIED="1753776216495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$01_03_find_alphabet_occurrence_array.coverage" NAME="01_03_find_alphabet_occurrence_array Coverage Results" MODIFIED="1753774378495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_06_fibo_recursion.coverage" NAME="04_06_fibo_recursion Coverage Results" MODIFIED="1759750655374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_03_insertion_sort.coverage" NAME="03_03_insertion_sort Coverage Results" MODIFIED="1758525925513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_09_get_count_of_departments_cleaned_by_robot_vacuum.coverage" NAME="04_09_get_count_of_departments_cleaned_by_robot_vacuum Coverage Results" MODIFIED="1759885937213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
     <SUITE FILE_PATH="coverage/CodingTest$02_13_get_kth_node_from_last.coverage" NAME="02_13_get_kth_node_from_last Coverage Results" MODIFIED="1754905413119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
-    <SUITE FILE_PATH="coverage/CodingTest$02_06_get_linked_list_sum.coverage" NAME="02_06_get_linked_list_sum Coverage Results" MODIFIED="1754031979135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$2748_B1______2.coverage" NAME="2748(B1) - 피보나치 수 2 Coverage Results" MODIFIED="1752561070669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$B1___7_dwarf.coverage" NAME="B1 - 7 dwarf Coverage Results" MODIFIED="1751866690247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_04_merge.coverage" NAME="03_04_merge Coverage Results" MODIFIED="1758696472798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1754904448713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_05_find_not_repeating_first_character.coverage" NAME="01_05_find_not_repeating_first_character Coverage Results" MODIFIED="1753777394746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_14_is_available_to_order.coverage" NAME="02_14_is_available_to_order Coverage Results" MODIFIED="1754905829460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$___.coverage" NAME="가장 많이 받은 선물 Coverage Results" MODIFIED="1759833322666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmers/2024 KAKAO WINTER INTERNSHIP" />
+    <SUITE FILE_PATH="coverage/CodingTest$2947_B1____.coverage" NAME="2947(B1) - 나무조각 Coverage Results" MODIFIED="1752333716704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_07_josephus_problem.coverage" NAME="02_07_josephus_problem Coverage Results" MODIFIED="1754035793061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$__.coverage" NAME="유사 칸토어 비트열 Coverage Results" MODIFIED="1759839834023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmers/연습문제" />
+    <SUITE FILE_PATH="coverage/CodingTest$S5___sort_by_age.coverage" NAME="S5 - sort by age Coverage Results" MODIFIED="1751967466662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/sort" />
+    <SUITE FILE_PATH="coverage/CodingTest$2775_B1_____.coverage" NAME="2775(B1) - 부녀회장이 될테야 Coverage Results" MODIFIED="1752646953232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/DP" />
+    <SUITE FILE_PATH="coverage/CodingTest$03_05_merge_sort.coverage" NAME="03_05_merge_sort Coverage Results" MODIFIED="1758696709469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/3rd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$is_existing_target_number_binary.coverage" NAME="is_existing_target_number_binary Coverage Results" MODIFIED="1754904099779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_01_max_heap.coverage" NAME="04_01_max_heap Coverage Results" MODIFIED="1759567918478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$S3___two_stickers.coverage" NAME="S3 - two stickers Coverage Results" MODIFIED="1751864093300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-A/brute force" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_08_summarize_string.coverage" NAME="01_08_summarize_string Coverage Results" MODIFIED="1753868935918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$7658_S5____.coverage" NAME="7658(S5) - 덩치 Coverage Results" MODIFIED="1752386733449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/구현,시뮬레이션" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_05_delete_node_linked_list.coverage" NAME="02_05_delete_node_linked_list Coverage Results" MODIFIED="1754031471381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_03_get_node_linked_list.coverage" NAME="02_03_get_node_linked_list Coverage Results" MODIFIED="1754030754763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$11724_S2______.coverage" NAME="11724(S2) - 연결 요소의 개수 Coverage Results" MODIFIED="1753081515512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_03_find_alphabet_occurrence_array.coverage" NAME="01_03_find_alphabet_occurrence_array Coverage Results" MODIFIED="1753774378495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$01_02_find_max_occurred_alphabet.coverage" NAME="01_02_find_max_occurred_alphabet Coverage Results" MODIFIED="1753774780712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/1st_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_15_get_count_of_ways_to_target_by_doing_plus_or_minus.coverage" NAME="02_15_get_count_of_ways_to_target_by_doing_plus_or_minus Coverage Results" MODIFIED="1754991631506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_01_class.coverage" NAME="02_01_class Coverage Results" MODIFIED="1753938615514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$is_exist_target_number_binary.coverage" NAME="is_exist_target_number_binary Coverage Results" MODIFIED="1754904169071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$catch_me.coverage" NAME="catch_me Coverage Results" MODIFIED="1760032991580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/5th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_07_fibo_dynamic_programming.coverage" NAME="04_07_fibo_dynamic_programming Coverage Results" MODIFIED="1759751124747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$10451_S3_____.coverage" NAME="10451(S3) - 순열 사이클 Coverage Results" MODIFIED="1752861770891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introduction-A/graph" />
+    <SUITE FILE_PATH="coverage/CodingTest$04_03_dfs_recursion.coverage" NAME="04_03_dfs_recursion Coverage Results" MODIFIED="1759577505772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/4th_week" />
+    <SUITE FILE_PATH="coverage/CodingTest$.coverage" NAME="과일장수 Coverage Results" MODIFIED="1759838885432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Programmers/연습문제" />
+    <SUITE FILE_PATH="coverage/CodingTest$02_04_add_node_linked_list.coverage" NAME="02_04_add_node_linked_list Coverage Results" MODIFIED="1754031235749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dingcorithm/2nd_week" />
   </component>
 </project>
